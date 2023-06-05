@@ -154,9 +154,11 @@ nav a:hover {
 
 .projects-header-container h2 {
     font-size: 2rem;
-    font-family: 'Cedarville Cursive', cursive;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 3px;
     text-decoration: underline
+    black
 }
 
 .project-main-container {
@@ -175,7 +177,7 @@ nav a:hover {
 .project-two {
     width: 100%;
     height: 200px;
-    background-image: url("https://images.unsplash.com/photo-1494783367193-149034c05e8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+    background-image: url("https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80");
     background-position: center;
     background-size: cover;
 }
@@ -201,7 +203,7 @@ nav a:hover {
 .project-four {
     width: 100%;
     height: 200px;
-    background-image: url("https://images.unsplash.com/photo-1621508775638-a7a0c9c6f006?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+    background-image: url("https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
     background-position: center;
     background-size: cover;
 }
@@ -331,7 +333,7 @@ footer .icons {
     }
 
     #projects {
-        padding: 5rem;
+        padding: 2rem;
     }
 }
 
